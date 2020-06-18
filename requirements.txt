@@ -1,0 +1,7 @@
+pandas
+sklearn
+scikit-learn==0.21.3
+streamlit
+trafilatura
+pprint
+google
